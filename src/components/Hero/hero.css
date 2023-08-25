@@ -1,0 +1,35 @@
+.hero-container {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  padding: 20px 60px;
+}
+
+.hero-image {
+  width: 600px;
+  height: 400px;
+}
+h2{
+  font-size: 2rem;
+}
+p {
+  max-width: 400px;
+  margin: 2rem 0rem;
+  line-height: 1.8rem;
+  font-size: 1.1rem;
+}
+button{
+  padding: 15px 20px;
+  border: none;
+  background-color: rgb(103, 6, 195);
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+button:hover{
+  border: 2px solid rgb(103, 6, 195);
+  background-color: #fff;
+  color: rgb(103, 6, 195);
+}

@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Install React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`npx create-react-app folderName`
+
+`cd foldername`
+
+`npm start`
+
+# Clonining Relearnreact app
+
+`cd foldername`
+
+`npm install`
+
 
 ## Available Scripts
 
