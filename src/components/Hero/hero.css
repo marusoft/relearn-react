@@ -33,7 +33,13 @@ button:hover {
   background-color: #fff;
   color: rgb(103, 6, 195);
 }
+.right-container{
+}
 
+.hero-image{
+  /* max-width: 140px; */
+
+}
 @media (max-width: 920px) {
   .hero-container {
     flex-direction: column;

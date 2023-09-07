@@ -8,6 +8,8 @@
 
 # Clonining Relearnreact app
 
+`git clone repo_url`
+
 `cd foldername`
 
 `npm install`
